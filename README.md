@@ -31,3 +31,6 @@
  alterações no .env
 
  - Instalar laravel-echo e socket.io-client para produção
+
+ -Comando para subir as filas 
+ php artisan queue:work
